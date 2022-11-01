@@ -1,0 +1,10 @@
+release/dodaj.o
+release/http.o
+release/main.o
+release/mainwindow.o
+release/przelicz.o
+release/qrc_Zasoby.o
+release/moc_dodaj.o
+release/moc_http.o
+release/moc_mainwindow.o
+release/moc_przelicz.o

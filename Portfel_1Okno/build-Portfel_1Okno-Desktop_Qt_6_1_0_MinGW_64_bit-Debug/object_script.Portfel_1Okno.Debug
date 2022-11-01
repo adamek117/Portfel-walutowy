@@ -1,0 +1,10 @@
+debug/dodaj.o
+debug/http.o
+debug/main.o
+debug/mainwindow.o
+debug/przelicz.o
+debug/qrc_Zasoby.o
+debug/moc_dodaj.o
+debug/moc_http.o
+debug/moc_mainwindow.o
+debug/moc_przelicz.o
